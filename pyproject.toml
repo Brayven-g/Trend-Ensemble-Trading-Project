@@ -1,0 +1,8 @@
+[project]
+name = "qr"
+version = "0.1.0"
+description = "Backtesting and validation library for the crypto trend-ensemble research"
+requires-python = ">=3.10"
+
+[tool.setuptools]
+packages = ["qr"]

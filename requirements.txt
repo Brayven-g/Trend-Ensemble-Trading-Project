@@ -1,0 +1,13 @@
+duckdb
+pandas
+numpy
+scipy
+statsmodels
+pyarrow
+ccxt
+matplotlib
+seaborn
+joblib
+python-dotenv
+ipykernel
+jupyter
